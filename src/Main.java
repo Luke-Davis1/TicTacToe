@@ -1,6 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+// TicTacToe game
 public class Main {
 
     public static void main(String[] args) {
